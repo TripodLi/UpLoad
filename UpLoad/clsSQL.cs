@@ -13,7 +13,7 @@ namespace UpLoad
         public static string strSqlConn
         {
             get
-            {
+            {  //
                 return clsLoad.ReadIniStr("DB", "conSqlStr");
             }
         }
