@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataBase>
+  <AutoASS_Bolt station="ST" sn="SN" datatime="dt">
+    <item value="T" name="扭矩值"/>
+    <item value="A" name="角度值"/>
+    <item value="P" name="程序号"/>
+  </AutoASS_Bolt>
+  <AutoASS_Keypart station="ST" sn="Product_SN" datatime="INPUT_DATE">
+    <item value="KEYPART_LOT" name="LOT"/>
+    <item value="KEYPART_NO" name="NO"/>
+  </AutoASS_Keypart>
+  <EOL station="ST" sn="SN" datatime="dt">
+    <item value="R" name="R"/>	
+    <item value="WID" name="W"/>
+    <item value="TID" name="T"/>
+  </EOL>
+</DataBase>
